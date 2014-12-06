@@ -7,4 +7,4 @@ Sandeep
 Priyanka 
 
 URL: 
-mailsender.elasticbeanstalk.com
+http://mailsenderapp.elasticbeanstalk.com/
