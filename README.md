@@ -1,5 +1,5 @@
-mailsender
-==========
+Mail Sender Application
+=======================
 
 <b> Group 9: </b> <br>
 Pradeep Kumar <br>
