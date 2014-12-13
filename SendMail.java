@@ -16,13 +16,13 @@ public class SendMail implements Service {
 			  				   String content)
 	  				throws Exception
 	  {
-		  String fromId = "nagsvenkat1990@gmail.com";   // Verified sender mail id
+		  String fromId = "VERIFIED_SENDER_MAIL_ID";   // Verified sender mail id
 		  String toId = email;   // Recipient id obtained dynamically.
 		    					 // If production access not acquired, this mail id should also be verified.		  
 		  String body = content; // Dynamically obtained
 		  String sub = subject; // Dynamically obtained
-		  String SMTP_USERNAME = "AKIAIN4NVNTQEKNGFJUA"; // Configured as in AWS SES
-		  String SMTP_PASSWORD = "Ai4BcRKOElgoQh0hVxsYzv43xXxChGdOpcSLre79We+r"; // Configured as in AWS SES
+		  String SMTP_USERNAME = "SES_USERNAME"; // Configured as in AWS SES
+		  String SMTP_PASSWORD = "SES_PASSWORD"; // Configured as in AWS SES
 		  String HOST = "email-smtp.us-west-2.amazonaws.com"; //SMTP URL
 		  int PORT = 587;
 		  
