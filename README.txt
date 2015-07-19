@@ -1,7 +1,7 @@
 Mail Sender Application
 
 Group 9: 
-Pradeep Kumar 
+Pradeep Kumar.D 
 Nagalakshmi 
 Sandeep 
 Priyanka 
